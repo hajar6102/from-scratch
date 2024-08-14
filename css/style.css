@@ -121,6 +121,9 @@ header ul a {
   margin: 0;
   text-align: center;
   position: relative;
+   height: 100vh;
+  background: url(../images/mountain0.jpg);
+  background-size: cover;
 }
 
 .main .text {
