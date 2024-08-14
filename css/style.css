@@ -178,7 +178,7 @@ i {
 .portfolio-content {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  grid-gap: 200px;
+  grid-gap: 88px;
 }
 
 .special-header {
